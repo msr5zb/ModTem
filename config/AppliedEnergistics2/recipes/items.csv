@@ -2797,6 +2797,9 @@ dendrology:tuopa_planks:11, Tuopa Wood Planks
 dendrology:tuopa_planks:12, Tuopa Wood Planks
 dendrology:tuopa_planks:13, Tuopa Wood Planks
 dendrology:tuopa_planks:14, Tuopa Wood Planks
+Aroma1997sDimension:aromicPortal, Mining Portal
+Aroma1997sDimension:portalFrame, Portal Frame
+Aroma1997sDimension:stickyOre, Sticky Ore
 BiblioCraft:tile.BiblioFramedChest:0, Framed Chest
 BiblioCraft:BiblioPaneler:0, Oak Furniture Paneler
 BiblioCraft:BiblioPaneler:1, Spruce Furniture Paneler
@@ -3446,7 +3449,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quacky Ender Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Enrichment Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -4651,6 +4654,7 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
+Aroma1997Core:wrench, Aromic Hammer
 appliedenergistics2:item.ToolCertusQuartzAxe, Certus Quartz Axe
 appliedenergistics2:item.ToolCertusQuartzHoe, Certus Quartz Hoe
 appliedenergistics2:item.ToolCertusQuartzSpade, Certus Quartz Shovel
@@ -6107,6 +6111,8 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Tuopa Wood Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tuopa Wood Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tuopa Wood Planks
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tuopa Wood Planks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Portal Frame
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sticky Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Ore
@@ -7219,6 +7225,8 @@ Forestry:cratedPlum, item.cratedPlum.name
 Forestry:cratedPapaya, item.cratedPapaya.name
 Forestry:cratedDates, item.cratedDates.name
 dendrology:parcel, Ancient Parcel
+Aroma1997sDimension:portalIgniter, Mining Multitool
+Aroma1997sDimension:dimensionChanger, DimensionChanger
 Backpack:backpack:0,  BackPack
 Backpack:backpack:1, Black Backpack
 Backpack:backpack:2, Red Backpack

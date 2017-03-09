@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p2 Unlimited for 1.7.10 on Mon Mar 06 22:48:19 CST 2017",
+  "generated": "Generated using JourneyMap 5.1.4p2 Unlimited for 1.7.10 on Thu Mar 09 12:44:20 CST 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "hxccapes:folder:1488861835837",
-  "modNames": "Ancient Trees:1.7.10-1.6.4, Applied Energistics 2 Core:rv3-beta-6, Applied Energistics 2:rv3-beta-6, ArmorStatusHUD:1.28, Backpack:2.0.1, Battle Towers:1.5.1, Better Builder\u0027s Wands:0.8.1, BiblioCraft:1.11.5, Big Reactors:0.4.3A, Brandon\u0027s Core:1.0.0.12, Chisel:2.9.5.11, Chocolate Quest:1.0, Clienthax\u0027s ChocoCraft:4.1.5, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.47, Draconic Evolution:1.0.2h, Dungeon Mobs:4.1.3, Enchanting Plus:3.0.2-d, Ender IO:1.7.10-2.3.0.429_beta, EnderCore:1.7.10-0.2.0.39_beta, Extra Cells 2:2.3.14, Extra Utilities:1.2.12, ExtraTiC:1.4.6, Fairy Lights:1.4.0, Forestry for Minecraft:4.2.16.64, Forge Mod Loader:7.10.99.99, Gravestone:0.7.10.3, Hats:4.0.1, Health Indicator:1.0, HxC Enchants:2.5.0, HxC-Core:1.13.2, HxC-Core:2.0.0, HxCKDMS Core ASM:1.13.2, HxCKDMS Core ASM:2.0.0, Iguana Tinker Tweaks:1.7.10-2.1.6.163, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest:6.0.60.741, JABBA:1.2.2, JourneyMap:5.1.4p2, Kore Sample:1.7.10-1.3.2, Levels:r3.0.1, Loot Bags:2.0.17, MFR Compat: Applied Energistics:1.7.10R2.8.1, MFR Compat: Chococraft:1.7.10R2.8.1, MFR Compat: Forestry:1.7.10R2.8.1, MFR Compat: ForgeMicroblock:1.7.10R2.8.1, MFR Compat: Thermal Expansion:1.7.10R2.8.1, MFR Compat: Tinkers\u0027 Construct:1.7.10R2.8.1, MFR Compat: TwilightForest:1.7.10R2.8.1, MFR Compat: Vanilla:1.7.10R2.8.1, Mantle:1.7.10-0.3.2.jenkins191, Metallurgy 4:4.0.9, Metallurgy Core:4.0.5, MineFactory Reloaded:1.7.10R2.8.1, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Morpheus:1.7.10-1.6.21, Mouse Tweaks:2.4.4, Mystcraft:0.12.3.03, Mystical Mobs:0.1.1, No Mob Spawning on Trees:1.2.0-mc1.7.10, Not Enough Items:1.0.5.120, OpenBlocks:1.6, OpenMods:0.10, OpenModsCore:0.10, Ore Dictionary Converter:1.6.1, Pam\u0027s HarvestCraft:1.7.10j, Random Things:2.2.4, Reliquary:1.2, Roguelike Dungeons:1.5.0, Simply Jetpacks:1.5.3, Special Mobs:3.2.2, The BigTrees Mod:0.2, The Twilight Forest:2.3.7, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Waila Harvestability:1.1.6, Waila:1.5.10, bspkrsCore:6.16, iChunUtil:4.2.3, libsandstone:1.0.0, §4§lMore Fuels Mod:1.3.2",
+  "modNames": "Ancient Trees:1.7.10-1.6.4, Applied Energistics 2 Core:rv3-beta-6, Applied Energistics 2:rv3-beta-6, ArmorStatusHUD:1.28, Aroma1997\u0027s Dimensional World:1.0, Aroma1997Core:1.0.2.16, Aroma1997Core|Helper:1.0.2.16, Backpack:2.0.1, Battle Towers:1.5.1, Better Builder\u0027s Wands:0.8.1, BiblioCraft:1.11.5, Big Reactors:0.4.3A, Brandon\u0027s Core:1.0.0.12, Chisel:2.9.5.11, Chocolate Quest:1.0, Clienthax\u0027s ChocoCraft:4.1.5, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.47, Draconic Evolution:1.0.2h, Dungeon Mobs:4.1.3, Enchanting Plus:3.0.2-d, Ender IO:1.7.10-2.3.0.429_beta, EnderCore:1.7.10-0.2.0.39_beta, Extra Cells 2:2.3.14, Extra Utilities:1.2.12, ExtraTiC:1.4.6, Fairy Lights:1.4.0, Forestry for Minecraft:4.2.16.64, Forge Mod Loader:7.10.99.99, Gravestone:0.7.10.3, Hats:4.0.1, Health Indicator:1.0, HxC Enchants:2.5.0, HxC-Core:1.13.2, HxC-Core:2.0.0, HxCKDMS Core ASM:1.13.2, HxCKDMS Core ASM:2.0.0, Iguana Tinker Tweaks:1.7.10-2.1.6.163, Infernal Mobs:1.6.0, Inventory Tweaks:1.59-dev-152-cf6e263, Iron Chest:6.0.60.741, JABBA:1.2.2, JourneyMap:5.1.4p2, Kore Sample:1.7.10-1.3.2, Levels:r3.0.1, Loot Bags:2.0.17, MFR Compat: Applied Energistics:1.7.10R2.8.1, MFR Compat: Chococraft:1.7.10R2.8.1, MFR Compat: Forestry:1.7.10R2.8.1, MFR Compat: ForgeMicroblock:1.7.10R2.8.1, MFR Compat: Thermal Expansion:1.7.10R2.8.1, MFR Compat: Tinkers\u0027 Construct:1.7.10R2.8.1, MFR Compat: TwilightForest:1.7.10R2.8.1, MFR Compat: Vanilla:1.7.10R2.8.1, Mantle:1.7.10-0.3.2.jenkins191, Metallurgy 4:4.0.9, Metallurgy Core:4.0.5, MineFactory Reloaded:1.7.10R2.8.1, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Morpheus:1.7.10-1.6.21, Mouse Tweaks:2.4.4, Mystcraft:0.12.3.03, Mystical Mobs:0.1.1, No Mob Spawning on Trees:1.2.0-mc1.7.10, Not Enough Items:1.0.5.120, OpenBlocks:1.6, OpenMods:0.10, OpenModsCore:0.10, Ore Dictionary Converter:1.6.1, Pam\u0027s HarvestCraft:1.7.10j, Random Things:2.2.4, Reliquary:1.2, Roguelike Dungeons:1.5.0, Simply Jetpacks:1.5.3, Special Mobs:3.2.2, The BigTrees Mod:0.2, The Twilight Forest:2.3.7, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.8.build988, Waila Harvestability:1.1.6, Waila:1.5.10, bspkrsCore:6.16, iChunUtil:4.2.3, libsandstone:1.0.0, §4§lMore Fuels Mod:1.3.2",
   "basicColors": [
     {
       "name": "16k Crafting Storage",
@@ -2504,7 +2504,7 @@ var colorpalette={
       "name": "Border Stone (Alternate)",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 7,
-      "color": "#3c4747"
+      "color": "#3d4848"
     },
     {
       "name": "Bottler",
@@ -3012,7 +3012,7 @@ var colorpalette={
       "name": "Carved Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 3,
-      "color": "#3e4949",
+      "color": "#364141",
       "alpha": 0.4
     },
     {
@@ -5789,14 +5789,14 @@ var colorpalette={
       "name": "Dark Ethereal Glass",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 2,
-      "color": "#3a4646",
+      "color": "#3b4746",
       "alpha": 0.4
     },
     {
       "name": "Dark Ethereal Glass (Inverted)",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 5,
-      "color": "#364141",
+      "color": "#374242",
       "alpha": 0.4
     },
     {
@@ -5810,7 +5810,7 @@ var colorpalette={
       "name": "Dark Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 10,
-      "color": "#394545",
+      "color": "#3a4545",
       "alpha": 0.4
     },
     {
@@ -7570,7 +7570,7 @@ var colorpalette={
       "name": "Ethereal Glass",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 0,
-      "color": "#3b4746",
+      "color": "#3c4747",
       "alpha": 0.4
     },
     {
@@ -9025,7 +9025,7 @@ var colorpalette={
       "name": "Frosted Stone",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 3,
-      "color": "#3a4646"
+      "color": "#3b4746"
     },
     {
       "name": "Fruit Juice",
@@ -9237,7 +9237,7 @@ var colorpalette={
       "name": "Giant Cobblestone",
       "uid": "TwilightForest:tile.GiantCobble",
       "meta": 0,
-      "color": "#667372"
+      "color": "#9ab3b1"
     },
     {
       "name": "Giant Leaves",
@@ -9392,7 +9392,7 @@ var colorpalette={
       "name": "Glass Bricks",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 2,
-      "color": "#3d4848",
+      "color": "#3e4949",
       "alpha": 0.4
     },
     {
@@ -9567,7 +9567,7 @@ var colorpalette={
       "name": "Glowstone Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 7,
-      "color": "#394545",
+      "color": "#3a4545",
       "alpha": 0.4
     },
     {
@@ -15915,6 +15915,12 @@ var colorpalette={
       "color": "#614b2a"
     },
     {
+      "name": "Mining Portal",
+      "uid": "Aroma1997sDimension:aromicPortal",
+      "meta": 0,
+      "color": "#00ffed"
+    },
+    {
       "name": "Mithril Block",
       "uid": "Metallurgy:fantasy.block",
       "meta": 7,
@@ -17578,7 +17584,7 @@ var colorpalette={
       "name": "Obsidian Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 5,
-      "color": "#374242",
+      "color": "#394545",
       "alpha": 0.4
     },
     {
@@ -18846,6 +18852,12 @@ var colorpalette={
       "color": "#560abe"
     },
     {
+      "name": "Portal Frame",
+      "uid": "Aroma1997sDimension:portalFrame",
+      "meta": 0,
+      "color": "#578e8c"
+    },
+    {
       "name": "Portal to The Deep Dark",
       "uid": "ExtraUtilities:dark_portal",
       "meta": 0,
@@ -19450,7 +19462,7 @@ var colorpalette={
       "color": "#a579a5"
     },
     {
-      "name": "QED (Quite Elegant Device)",
+      "name": "QED (Quantum Entanglement Diviner)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -20011,7 +20023,7 @@ var colorpalette={
       "name": "Reinforced Dark Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 11,
-      "color": "#3b4746",
+      "color": "#3c4747",
       "alpha": 0.4
     },
     {
@@ -23179,6 +23191,12 @@ var colorpalette={
       "color": "#8b7043"
     },
     {
+      "name": "Sticky Ore",
+      "uid": "Aroma1997sDimension:stickyOre",
+      "meta": 0,
+      "color": "#748472"
+    },
+    {
       "name": "Sticky Piston",
       "uid": "minecraft:sticky_piston",
       "meta": 0,
@@ -24815,7 +24833,7 @@ var colorpalette={
       "name": "Unstable Ingot Block",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 5,
-      "color": "#3e4949"
+      "color": "#364141"
     },
     {
       "name": "Vacuum Chest",
